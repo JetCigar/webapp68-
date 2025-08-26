@@ -24,11 +24,12 @@ nav a{
     width: 500px;
     height: 500px;
     border-radius: 100%;
-    margin-left: 1087px;
+    margin-left: 1000px;
     
 }
 
 .content{
+    margin-left: 50px;
     display: flex;
     justify-content: none;
     
