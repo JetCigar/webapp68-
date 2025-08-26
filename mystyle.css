@@ -23,22 +23,21 @@ nav a{
 .pofile-image{
     width: 500px;
     height: 500px;
-    border: 2px solid red;
     border-radius: 100%;
+    margin-left: 1087px;
+    
 }
 
 .content{
     display: flex;
-    justify-content: space-between;
-    border: 1px blue solid;
+    justify-content: none;
     
 }
 .content-element{
-    border: 1px red solid;
 }
 
 .footer-item{
-    border: 1px plum solid;
+
 }
 
 .footer-item a{
