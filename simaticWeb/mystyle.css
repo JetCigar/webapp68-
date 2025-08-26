@@ -1,0 +1,51 @@
+
+
+
+header{
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+nav{
+    padding-left: 10px;
+    margin-right: 10px;
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+.pofile-image{
+    width: 500px;
+    height: 500px;
+    border-radius: 100%;
+    margin-left: 1000px;
+    
+}
+
+.content{
+    margin-left: 50px;
+    display: flex;
+    justify-content: none;
+    
+}
+.content-element{
+}
+
+.footer-item{
+
+}
+
+.footer-item a{
+    text-decoration: none;
+}
+
+.footer-icon img{
+    width: 50px;
+    height: 50px;
+}
